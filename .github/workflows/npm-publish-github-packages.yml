@@ -18,4 +18,4 @@ jobs:
         node-version: '22'
         
     - run: npm install
-    - run: npm jest
+    - run: npx jest
